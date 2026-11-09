@@ -2,57 +2,49 @@
 
 ### Python Developer | AI & Machine Learning Enthusiast
 
-I'm a Python Developer with a strong interest in software engineering, artificial intelligence, and machine learning.
+I'm a Python Developer interested in Software Engineering, Artificial Intelligence, and Machine Learning.
 
-I enjoy building practical software projects, solving programming challenges, and continuously expanding my knowledge of modern technologies.
+I enjoy building practical applications, solving problems, and exploring new technologies.
 
-Currently, I'm focusing on strengthening my knowledge of Machine Learning and exploring different areas of Artificial Intelligence.
+Currently, I'm focusing on Machine Learning, Data Science, and improving my software engineering skills.
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 🐍 Python Developer
-- 🎓 Currently studying Machine Learning and Artificial Intelligence
-- 🧠 Interested in Data Science, Deep Learning, and AI
-- 🏗️ Passionate about clean code, OOP, and software design
-- 🚀 Always learning and building new projects
+- 🧠 Interested in Artificial Intelligence and Machine Learning
+- 📚 Currently studying Machine Learning Algorithms
+- 🏗️ Interested in OOP, Clean Code, and Software Design
+- 🚀 Building projects to improve my technical skills
 
 ---
 
-### 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-**Programming Languages**
+### Programming Language
 
-- Python
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
-**Python Development**
+### Data Science & Machine Learning
 
-- Object-Oriented Programming (OOP)
-- Data Structures & Algorithms
-- Design Patterns
-- Exception Handling
-- File Handling
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=numpy,pytorch,tensorflow" />
+</p>
 
-**Data Science & Machine Learning**
+### Development Tools
 
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-learn
-
-**Tools & Technologies**
-
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" />
+</p>
 
 ---
 
-### 📚 Currently Learning
+## 📚 Currently Learning
 
-- Machine Learning Algorithms
+- Machine Learning
 - Supervised & Unsupervised Learning
 - Feature Engineering
 - Model Evaluation
@@ -60,7 +52,7 @@ Currently, I'm focusing on strengthening my knowledge of Machine Learning and ex
 
 ---
 
-### 🎯 Areas of Interest
+## 🎯 Areas of Interest
 
 - Software Engineering
 - Artificial Intelligence
@@ -70,43 +62,47 @@ Currently, I'm focusing on strengthening my knowledge of Machine Learning and ex
 
 ---
 
-### 📂 Featured Projects
+## 🚀 Featured Projects
 
-My projects will be listed here as I build and publish them.
-
----
-
-### 📫 Connect With Me
-
-- GitHub: [@qbdi-mohamd](https://github.com/qbdi-mohamd)
+Projects coming soon!
 
 ---
 
-## 🛠️ Tech Stack
-
-### Programming Language
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-### Data Science & Machine Learning
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=numpy,pytorch,tensorflow" />
-</p>
-
-### Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" />
-</p>
-
----
-
-## 💻 Most Used Languages
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qbdi-mohamd&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=qbdi-mohamd&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qbdi-mohamd&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=qbdi-mohamd&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qbdi-mohamd&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/qbdi-mohamd">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
