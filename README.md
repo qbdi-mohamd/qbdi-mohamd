@@ -1,4 +1,4 @@
-# Hi, I'm Mohammad 👋
+# Hi, I'm Mohamad 👋
 
 ### Python Developer | AI & Machine Learning Enthusiast
 
