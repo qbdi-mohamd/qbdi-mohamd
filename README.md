@@ -79,7 +79,33 @@ My projects will be listed here as I build and publish them.
 ### 📫 Connect With Me
 
 - GitHub: [@qbdi-mohamd](https://github.com/qbdi-mohamd)
-- Telegram: [@qbdi_mohamd](https://telegram.com/qbdi_mohamd)
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Language
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+### Data Science & Machine Learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=numpy,pytorch,tensorflow" />
+</p>
+
+### Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" />
+</p>
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qbdi-mohamd&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
