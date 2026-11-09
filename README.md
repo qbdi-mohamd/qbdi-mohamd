@@ -79,6 +79,7 @@ My projects will be listed here as I build and publish them.
 ### 📫 Connect With Me
 
 - GitHub: [@qbdi-mohamd](https://github.com/qbdi-mohamd)
+- Telegram: [@qbdi_mohamd](https://telegram.com/qbdi_mohamd)
 
 ---
 
